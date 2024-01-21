@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intervals", "intervals\intervals.csproj", "{BAB219C2-8880-4E4F-B03E-26C48734FCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInterval", "TestInterval\TestInterval.csproj", "{066AAD44-8F8F-4270-909D-01CFC2A2799E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB219C2-8880-4E4F-B03E-26C48734FCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB219C2-8880-4E4F-B03E-26C48734FCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB219C2-8880-4E4F-B03E-26C48734FCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB219C2-8880-4E4F-B03E-26C48734FCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066AAD44-8F8F-4270-909D-01CFC2A2799E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066AAD44-8F8F-4270-909D-01CFC2A2799E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066AAD44-8F8F-4270-909D-01CFC2A2799E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066AAD44-8F8F-4270-909D-01CFC2A2799E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62B6FD6-09D1-4FF2-9697-C568ED4BC292}
+	EndGlobalSection
+EndGlobal
